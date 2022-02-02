@@ -1,0 +1,26 @@
+<AdmissionInfo>
+	<student id = "23">
+		<name>John_Carter</name>
+		<AdmissionDate>
+			<date>25</date>
+			<month>12</month>
+			<year>2015</year>
+		</AdmissionDate>
+	</student>
+	<student id ="29">
+		<name>Bob_Marshal</name>
+		<AdmissionDate>
+			<date>13</date>
+			<month>01</month>
+			<year>1999</year>
+		</AdmissionDate>
+	</student>
+	<student id ="35">
+		<name>Clark_Kent</name>
+		<AdmissionDate>
+			<date>17</date>
+			<month>06</month>
+			<year>2005</year>
+		</AdmissionDate>
+	</student>
+</AdmissionInfo>
